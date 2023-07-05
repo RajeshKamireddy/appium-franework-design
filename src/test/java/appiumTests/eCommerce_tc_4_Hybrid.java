@@ -20,7 +20,7 @@ import rajesh.pageObjects.android.CartPage;
 import rajesh.pageObjects.android.FormPage;
 import rajesh.pageObjects.android.ProductCatalogue;
 
-public class eCommerce_tc_4_Hybrid extends BaseTest {
+public class eCommerce_tc_4_Hybrid extends AndroidBaseTest {
 
 	@Test
 	public void FillForm() throws InterruptedException {
